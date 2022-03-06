@@ -14,5 +14,5 @@ if fails to import serial run command: pip install pyserial
 # GUI as of 3/6/2022
 Original AR4 modified so it loads GUI on Mac OSX
 
-![Current GUI state](GUI.png)
+![Current GUI state](GUI.PNG)
 
