@@ -55,7 +55,7 @@ from os import execv
 from tkinter import *
 from tkinter.ttk import *
 from tkinter import ttk
-from ttkthemes import ThemedStyle
+from ttkthemes import ThemedStyle #pip install ttkthemes
 from tkinter import messagebox
 
 import pickle

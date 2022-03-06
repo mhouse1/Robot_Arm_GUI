@@ -5,13 +5,14 @@ clone of AR4 software with modification to support running on Mac OS,  original 
 # Usage 
 On Mac OS launch this script as: python3 AR4.py
 * Requirements: python 3.7.3+
-* Requirements: pyserial
+* Requirements: pip install pyserial
 * Requirements: tkinter
+* Requirements: pip install ttkthemes
 
 if fails to import serial run command: pip install pyserial
 
 # GUI as of 3/6/2022
-Original AR4 unmodified
+Original AR4 modified so it loads GUI on Mac OSX
 
 ![Current GUI state](GUI.png)
 
