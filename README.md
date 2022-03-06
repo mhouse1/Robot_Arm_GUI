@@ -4,9 +4,9 @@ clone of AR2 software with modification to support running on Mac OS,  original 
 
 # Usage 
 On Mac OS launch this script as: python3 AR2.py
-Requirements: python 3.7.3+
-Requirements: pyserial
-Requirements: tkinter
+* Requirements: python 3.7.3+
+* Requirements: pyserial
+* Requirements: tkinter
 
 if fails to import serial run command: pip install pyserial
 
