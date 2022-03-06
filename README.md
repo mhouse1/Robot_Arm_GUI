@@ -3,7 +3,7 @@ clone of AR4 software with modification to support running on Mac OS,  original 
 
 
 # Usage 
-On Mac OS launch this script as: python3 AR2.py
+On Mac OS launch this script as: python3 AR4.py
 * Requirements: python 3.7.3+
 * Requirements: pyserial
 * Requirements: tkinter
